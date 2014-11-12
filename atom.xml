@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[L.Frank's Tech Lab]]></title>
+  <subtitle><![CDATA[Me = 30% program + 30% wife and cat + 40% troublesome life]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-11-12T15:36:16.944Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Lin Che Yu Frank]]></name>
+    <email><![CDATA[fk455290@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[The very first blog]]></title>
+    <link href="http://yoursite.com/2014/11/12/The-very-first-blog/"/>
+    <id>http://yoursite.com/2014/11/12/The-very-first-blog/</id>
+    <published>2014-11-12T14:19:10.000Z</published>
+    <updated>2014-11-12T14:47:48.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>Why I Made This Blog?</li>
+</ul>
+<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="350" width="350"></p>
+<blockquote>
+<p>   To iterate is human, to recursive, divine</p>
+</blockquote>
+<p>大四了，做了許多不一樣的決定</p>
+<p>包含了捨棄本系的學位，哈哈</p>
+<p>一直覺得一路走來，除了生活財務狀況一直不大行之外，其他倒都是頗為幸運</p>
+<p>非本科系的學生，僅憑著程式基礎與熱忱</p>
+<p>毅然決然投了國內三大資工所</p>
+<p>主要是覺得還有太多知識需要學習</p>
+<p>況且修輔系課程遇到的學弟妹都強得跟鬼一樣</p>
+<p>多少也給了自己一些警惕</p>
+<p>弱者如我，是個沒有compiler就不會寫code的人</p>
+<p>一直以來都想架個屬於自己的網站</p>
+<p>但本人屬於只看得懂html,css，卻不得其門而入的人</p>
+<p>最近意外在網路上逛到有關快速架站的資訊</p>
+<p>利用node.js base的hexo就把這個陽春的blog架起來了</p>
+<p>這篇文章就當作熱熱身吧</p>
+<p><img src="http://i.imgur.com/BWiAJJw.jpg" height="350" width="350"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>Why I Made This Blog?</li>
+</ul>
+<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="350" width="350"></p>
+<blockquote>
+<p>   To i]]>
+    </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="EasyBlogging" scheme="http://yoursite.com/tags/EasyBlogging/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://yoursite.com/2014/11/11/hello-world/"/>
+    <id>http://yoursite.com/2014/11/11/hello-world/</id>
+    <published>2014-11-11T15:41:52.000Z</published>
+    <updated>2014-11-12T15:02:58.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
