@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Me = 30% program + 30% wife and cat + 40% troublesome life]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-11-13T11:01:32.386Z</updated>
+  <updated>2014-11-13T11:59:59.163Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -19,14 +19,16 @@
     <link href="http://yoursite.com/2014/11/12/The-very-first-blog/"/>
     <id>http://yoursite.com/2014/11/12/The-very-first-blog/</id>
     <published>2014-11-12T14:19:10.000Z</published>
-    <updated>2014-11-12T14:47:48.000Z</updated>
+    <updated>2014-11-13T11:59:23.000Z</updated>
     <content type="html"><![CDATA[<ul>
 <li>Why I Made This Blog?</li>
 </ul>
-<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="350" width="350"></p>
+<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="200" width="200"></p>
 <blockquote>
 <p>   To iterate is human, to recursive, divine</p>
 </blockquote>
+<a id="more"></a>
+
 <p>大四了，做了許多不一樣的決定</p>
 <p>包含了捨棄本系的學位，哈哈</p>
 <p>一直覺得一路走來，除了生活財務狀況一直不大行之外，其他倒都是頗為幸運</p>
@@ -47,9 +49,12 @@
     <![CDATA[<ul>
 <li>Why I Made This Blog?</li>
 </ul>
-<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="350" width="350"></p>
+<p><img src="http://i.imgur.com/FW1sJHP.jpg" height="200" width="200"></p>
 <blockquote>
-<p>   To i]]>
+<p>   To iterate is human, to recursive, divine</p>
+</blockquote>
+]]>
+    
     </summary>
     
       <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>

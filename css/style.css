@@ -1230,7 +1230,7 @@ a {
   padding: 15px 20px;
   overflow: auto;
   color: #fff;
-  line-height: 22.400000000000002px;
+  line-height: 28.8px;
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
@@ -1286,8 +1286,8 @@ a {
   padding-right: 20px;
 }
 .article-entry .highlight .line {
-  font-size: 14px;
-  height: 22.400000000000002px;
+  font-size: 18px;
+  height: 28.8px;
 }
 .article-entry .gist {
   margin: 0 -20px;
