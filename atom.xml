@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Me = 30% program + 30% wife and cat + 40% troublesome life]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-11-13T12:36:33.486Z</updated>
+  <updated>2014-11-13T14:30:23.948Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -68,8 +68,14 @@
     <link href="http://yoursite.com/2014/11/11/hello-world/"/>
     <id>http://yoursite.com/2014/11/11/hello-world/</id>
     <published>2014-11-11T15:41:52.000Z</published>
-    <updated>2014-11-12T15:02:58.000Z</updated>
+    <updated>2014-11-13T14:30:00.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
+
+<p>未來這篇應該會寫成hexo教學文</p>
+<p>並且放上自己遇到的一些問題</p>
+<p>希望有幫助</p>
+<p>暫時先這樣吧</p>
 <h2 id="Quick_Start">Quick Start</h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -89,8 +95,16 @@
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+]]>
+    
     </summary>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="supereasy!" scheme="http://yoursite.com/tags/supereasy/"/>
+    
+      <category term="Intro" scheme="http://yoursite.com/categories/Intro/"/>
     
   </entry>
   
